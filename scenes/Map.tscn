@@ -11,4 +11,4 @@ scale = Vector2( 1, 0.585938 )
 texture = ExtResource( 1 )
 
 [node name="compass" parent="." instance=ExtResource( 3 )]
-position = Vector2( 976, 48 )
+position = Vector2( 960, 56 )
